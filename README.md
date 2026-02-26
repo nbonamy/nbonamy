@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hey, I'm Nicolas 👋
 
-<!--
-**nbonamy/nbonamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in **Chicago, IL**. I build desktop apps, CLI tools, and libraries — mostly around AI, media, and developer productivity.
 
-Here are some ideas to get you started:
+🚀 Currently building [**Skwad**](https://github.com/Kochava-Studios/skwad) — AI coding agents, working together (Swift)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**Witsy**](https://github.com/nbonamy/witsy) | Desktop AI assistant & universal MCP client (Electron + Vue) | ⭐ 1.8k+ |
+| [**multi-llm-ts**](https://github.com/nbonamy/multi-llm-ts) | Unified TypeScript library for LLM provider APIs | ⭐ 80+ |
+| [**Nestor**](https://github.com/nbonamy/nestor) | API Hub for AI Agents | ⭐ 11 |
+| [**rag-youtube**](https://github.com/nbonamy/rag-youtube) | Build a RAG from YouTube channel videos | ⭐ 22 |
+| [**Trax**](https://github.com/nbonamy/trax) | macOS music management app (Flutter) | ⭐ 14 |
+| [**youtube-tldw**](https://github.com/nbonamy/youtube-tldw) | YouTube TL;DW — video summarization with LLMs | ⭐ 6 |
+
+### Other Stuff
+
+- [**foto**](https://github.com/nbonamy/foto) — Image browser/viewer (Flutter)
+- [**easy-chapters**](https://github.com/nbonamy/easy-chapters) — macOS app to edit video chapters
+- [**vue-hero-transition**](https://github.com/nbonamy/vue-hero-transition) — Hero transition component for Vue
+- [**taglib_ffi**](https://github.com/nbonamy/taglib_ffi) — TagLib FFI bindings for Dart/Flutter
+- [**powerpoint-custom-table-style-generator**](https://github.com/nbonamy/powerpoint-custom-table-style-generator) — Custom styles for PowerPoint tables
+
+### Tech Stack
+
+**TypeScript** · **Python** · **JavaScript** · **Dart/Flutter** · **Vue** · **C/C++** · **Swift** · **Rust** · **Electron**
+
+### Links
+
+🌐 [bonamy.fr/projects](http://www.bonamy.fr/projects)
