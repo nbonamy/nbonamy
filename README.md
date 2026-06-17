@@ -9,7 +9,6 @@ Software engineer based in **Chicago, IL**. I build desktop apps, CLI tools, and
 | [**Skwad**](https://github.com/Kochava-Studios/skwad) | AI coding agents, working together (Swift) | 🆕 |
 | [**Witsy**](https://github.com/nbonamy/witsy) | Desktop AI assistant & universal MCP client (Electron + Vue) | ⭐ 1.8k+ |
 | [**multi-llm-ts**](https://github.com/nbonamy/multi-llm-ts) | Unified TypeScript library for LLM provider APIs | ⭐ 80+ |
-| **multi-guardrails-ts** | Guardrails library for multi-llm-ts | 🆕 |
 
 ### Other Stuff
 
