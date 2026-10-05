@@ -6,8 +6,9 @@ Software engineer based in **Chicago, IL**. I build desktop apps, CLI tools, and
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [**Korus**](https://github.com/nbonamy/korus) | Agentic Development Environment (Electron + Vue) | 🆕 |
 | [**Skwad**](https://github.com/Kochava-Studios/skwad) | AI coding agents, working together (Swift) | 🆕 |
-| [**Witsy**](https://github.com/nbonamy/witsy) | Desktop AI assistant & universal MCP client (Electron + Vue) | ⭐ 1.8k+ |
+| [**Witsy**](https://github.com/Kochava-Studios/witsy) | Desktop AI assistant & universal MCP client (Electron + Vue) | ⭐ 2k+ |
 | [**multi-llm-ts**](https://github.com/nbonamy/multi-llm-ts) | Unified TypeScript library for LLM provider APIs | ⭐ 80+ |
 
 ### Other Stuff
